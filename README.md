@@ -16,9 +16,14 @@ This project is a Streamlit-based chatbot application designed to facilitate pri
 - **dotenv**: For managing environment variables.
 - **markdown_it**: For converting text into markdown format.
 
-STEPS
--**1.redirect to path**:
--**2.pip install -r requirements.txt**:
--**3.YOUR_API_KEY_HERE=your_api_key_value**:
--**4.streamlit run app.py**:
+
+## STEPS
+
+- **1**: Redirect to path.
+- **2**: Pip install -r requirements.txt.
+- **3**: YOUR_API_KEY_HERE=your_api_key_value.
+- **4**: Streamlit run app.py.
+- **5**: Type your question and find the response.
+
+
 

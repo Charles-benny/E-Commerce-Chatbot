@@ -17,8 +17,8 @@ This project is a Streamlit-based chatbot application designed to facilitate pri
 - **markdown_it**: For converting text into markdown format.
 
 STEPS
--1.redirect to path
--2.pip install -r requirements.txt
--3.YOUR_API_KEY_HERE=your_api_key_value
--4.streamlit run app.py
+-**1.redirect to path**
+-**2.pip install -r requirements.txt**
+-**3.YOUR_API_KEY_HERE=your_api_key_value**
+-**4.streamlit run app.py**
 
